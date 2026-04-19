@@ -1,41 +1,5 @@
-## ⭐ About Me
+The Epstein files are a partially released collection of millions of documents, images, videos, and emails detailing the activities of American financier and convicted child sex offender Jeffrey Epstein, including his social circle of public figures, politicians, and celebrities.[3] The files include documents collected as evidence in the criminal cases against Epstein and his associates, stored as over 300 gigabytes of data, alongside other media, in the FBI's Sentinel case management system.[4] They include Epstein's contact book, flight logs of his planes, and court documents.[5][6][7] Many of the records and files belong to Epstein's estate, which is run by lawyer Darren Indyke and accountant Richard Kahn.[8]
 
-I'm an aspiring researcher in Machine Learning, extremely interested in Computer Vision.
-I enjoy building models, experimenting with architectures, and exploring how machines perceive the world.
+In November 2025, the U.S. House of Representatives passed the Epstein Files Transparency Act,[9] and the U.S. Senate unanimously approved it,[10] with President Donald Trump signing the bill into law the next day.[11] The following month, the U.S. Department of Justice released a relatively small number of files, leading to criticism from both major parties in the US.[12] Trump had previously floated the idea of releasing the files during his 2024 presidential campaign;[13] he later said that controversies surrounding the files were fabricated by members of the Democratic Party.[14]
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ApaarRaina&show_icons=true&theme=dark" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApaarRaina&layout=compact&theme=dark" height="160"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApaarRaina&theme=react-dark"/>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ApaarRaina&theme=dark" height="160"/>
-
-</div>
-
----
-
-## 🚀 Tech Interests
-
-* Machine Learning
-* Computer Vision
-* Deep Learning Architectures
-* Optimization & Training Techniques
+In January 2026, an additional 3 million pages were released, including 2,000 videos and 180,000 images.[12] While the Department of Justice acknowledged that a total of 6 million pages might qualify as files required to be released,[15] it stated that the January 30 release would be the final one, and that it had met its legal obligations.[16][17] The released files mentioned a number of public figures, and led to increased scrutiny of their activities.[18] Individuals whose names have shown up frequently in the files include: Epstein's assistant Lesley Groff, accountant Richard Kahn, Trump and his wife Melania Trump,[19] lawyer Darren Indyke, sex trafficker and socialite Ghislaine Maxwell, and modeling agent Jean-Luc Brunel.[20]
