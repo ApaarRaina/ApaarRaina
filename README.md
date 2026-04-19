@@ -39,9 +39,3 @@ I enjoy building models, experimenting with architectures, and exploring how mac
 * Computer Vision
 * Deep Learning Architectures
 * Optimization & Training Techniques
-
----
-
-## 📌 Note
-
-This profile dynamically updates using GitHub stats APIs.
