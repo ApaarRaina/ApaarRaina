@@ -1,7 +1,6 @@
 ## ⭐ About Me
 
-I'm an aspiring researcher in Machine Learning, extremely interested in Computer Vision.
-I enjoy building models, experimenting with architectures, and exploring how machines perceive the world.
+A college student who is interested in Computer Vision and ML.
 
 ---
 
